@@ -20,4 +20,3 @@ elif peso_nico >= 41 and peso_nico <80:
         print("tres")
 else: 
         print("cuatro")
-        
